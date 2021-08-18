@@ -1,0 +1,8 @@
+Django==3.0.8
+djangorestframework==3.11.0
+websocket-client==0.57.0
+redis==3.5.3
+asgiref==3.2.10
+channels==3.0.1
+channels_redis==3.3.0
+django-radis == 5.0.0
